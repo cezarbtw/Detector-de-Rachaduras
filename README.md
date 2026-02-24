@@ -89,7 +89,7 @@ Desenvolvido por:
 - [**Abraão Cezar**](https://github.com/cezarbtw)  
 - [**Gabriel Oliveira**](https://github.com/GabrielOlNascimento)
 
-> Projeto desenvolvido como parte da APS do curso de Análise e Desenvolvimento de Sistemas, integrando Inteligência Artificial e Visão Computacional com interface gráfica em PyQt5.
+> Projeto desenvolvido como parte da APS do curso de Ciência da Computação, integrando Inteligência Artificial e Visão Computacional com interface gráfica em PyQt5.
 
 ---
 
