@@ -1,6 +1,6 @@
-# 🧠 Sistema de Detecção e Segmentação de Rachaduras com YOLOv8 e PyQt5
+#  Sistema de Detecção e Segmentação de Rachaduras com YOLOv8 e PyQt5
 
-## 📋 Descrição Geral
+##  Descrição Geral
 Este projeto implementa um sistema para **detecção e segmentação de rachaduras em imagens**, utilizando o modelo **YOLOv8** da biblioteca **Ultralytics**.  
 O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite ao usuário selecionar imagens, processá-las e visualizar os resultados da detecção.
 
@@ -20,7 +20,7 @@ O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite 
 
 ---
 
-## 🧩 Funcionalidades Principais
+##  Funcionalidades Principais
 
 ✅ Treinamento personalizado de modelo YOLOv8  
 ✅ Detecção e segmentação de rachaduras em imagens  
@@ -30,7 +30,7 @@ O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite 
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Categoria | Ferramenta |
 |------------|-------------|
@@ -93,7 +93,7 @@ Desenvolvido por:
 
 ---
 
-## 📦 Dependências
+##  Dependências
 
 Crie e ative um ambiente virtual, depois instale as dependências com:
 
@@ -112,7 +112,7 @@ numpy
 
 ---
 
-## 📸 Resultados
+##  Resultados
 
 Os resultados de detecção são armazenados automaticamente em:
 
@@ -122,7 +122,7 @@ runs/detect/predict
 
 ---
 
-## 🧠 Observações Finais
+##  Observações Finais
 
 - O modelo YOLOv8 deve ser ajustado de acordo com o dataset utilizado.  
 - Certifique-se de manter as pastas `train/` e `valid/` corretamente configuradas no `data.yaml`.  
@@ -130,7 +130,7 @@ runs/detect/predict
 
 ---
 
-## 🏁 Licença
+##  Licença
 
 Este projeto é de uso acadêmico e pode ser adaptado para fins de pesquisa e aprendizado.
 
