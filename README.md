@@ -136,6 +136,6 @@ Este projeto é de uso acadêmico e pode ser adaptado para fins de pesquisa e ap
 
 ---
 
-### 🌍 Repositório Oficial
+###  Repositório Oficial
 
 🔗 [GitHub - detector-rachaduras-yolov8](https://github.com/cezarbtw/detector-rachaduras-yolov8)
