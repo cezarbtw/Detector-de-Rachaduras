@@ -6,10 +6,10 @@ O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite 
 
 ---
 
-## ⚙️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
-📦 detector-rachaduras-yolov8
+ detector-rachaduras-yolov8
  ┣ 📂 imagens/                # Pasta de imagens para teste
  ┣ 📂 runs/                   # Resultados do treinamento e inferência
  ┣ 📜 train_model.py          # Script de treinamento do YOLOv8
@@ -42,7 +42,7 @@ O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite 
 
 ---
 
-## 🖥️ Interface Gráfica (PyQt5)
+##  Interface Gráfica (PyQt5)
 
 A interface permite:  
 - Escolher uma imagem do computador  
@@ -57,7 +57,7 @@ QLabel("Resultado da Detecção")
 
 ---
 
-## 📚 Treinamento do Modelo
+##  Treinamento do Modelo
 
 O treinamento é feito com o script `train_model.py`, utilizando a estrutura padrão do YOLOv8.
 
@@ -72,7 +72,7 @@ O arquivo `data.yaml` define o caminho das imagens de treino e validação.
 
 ---
 
-## ▶️ Execução da Interface
+##  Execução da Interface
 
 Para rodar a aplicação gráfica:
 
@@ -82,7 +82,7 @@ python app_interface.py
 
 ---
 
-## 🧑‍💻 Autoria
+##  Autoria
 
 Desenvolvido por:
 
