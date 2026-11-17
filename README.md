@@ -22,11 +22,11 @@ O sistema inclui uma interface gráfica desenvolvida com **PyQt5**, que permite 
 
 ##  Funcionalidades Principais
 
-✅ Treinamento personalizado de modelo YOLOv8  
-✅ Detecção e segmentação de rachaduras em imagens  
-✅ Interface gráfica intuitiva com PyQt5  
-✅ Visualização dos resultados diretamente na aplicação  
-✅ Suporte a carregamento de novas imagens  
+ Treinamento personalizado de modelo YOLOv8  
+ Detecção e segmentação de rachaduras em imagens  
+ Interface gráfica intuitiva com PyQt5  
+ Visualização dos resultados diretamente na aplicação  
+ Suporte a carregamento de novas imagens  
 
 ---
 
